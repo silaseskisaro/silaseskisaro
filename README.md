@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @silaseskisaro
-- 👀 I’m interested in web development, working in Django, CSS, HTML and JavaScript.
+- 👀 I’m interested in web development, working in Django, JavaScript, CSS, HTML, node Js.
 - 🌱 I’m currently learning reactjs and vuejs.
 
 
